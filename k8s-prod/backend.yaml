@@ -37,7 +37,7 @@ spec:
     spec:
       containers:
         - name: backend
-          image: mehmoodhaq7/incident-log-backend:latest
+          image: mehmoodhaq7/incident-log-backend:55
           ports:
             - containerPort: 5000
           resources:
